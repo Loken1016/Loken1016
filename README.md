@@ -7,7 +7,7 @@
 
    <h1>Github stats</h1>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loken1016&theme=radical">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Loken1016&theme=tokyonight">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Loken1016&theme=tokyonight">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Loken1016&theme=tokyonight">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Loken1016&theme=radical">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Loken1016&theme=radical">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Loken1016&theme=radical">
 </div>
